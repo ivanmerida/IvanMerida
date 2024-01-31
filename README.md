@@ -1,7 +1,8 @@
 
 <h1 align="center"> Iván Mérida</h1>
-<h2 align="center">Desarrollador web</h2>
-![Code](https://github.com/ivanmerida/IvanMerida/assets/87203017/072e5ab1-dfe2-4436-b590-344c1869de9d)
+<p align="center">Desarrollador web</h2>
+
+![bg-code](https://p4.wallpaperbetter.com/wallpaper/999/599/785/html-code-coffee-programmers-wallpaper-preview.jpg)
 
 <!--
 **ivanmerida/IvanMerida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
