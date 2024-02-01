@@ -1,11 +1,8 @@
 
 <h1 align="center"> Iván Mérida</h1>
-<p align="center">Desarrollador web</h2>
+<h2 align="center">Desarrollador web</h2>
 
-<div align="center">
-  <img src="https://p4.wallpaperbetter.com/wallpaper/999/599/785/html-code-coffee-programmers-wallpaper-preview.jpg" alt="bg-code">
-</div>
-<hr/>
+
 <div align="center">
   <img src="https://github.com/ivanmerida/IvanMerida/assets/87203017/b4f372d0-eee0-448b-b21a-6895c4b81faf.png" alt="bg-code">
 </div>
