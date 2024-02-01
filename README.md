@@ -2,13 +2,17 @@
 <h1 align="center"> Iván Mérida</h1>
 <p align="center">Desarrollador web</h2>
 
-![bg-code](https://p4.wallpaperbetter.com/wallpaper/999/599/785/html-code-coffee-programmers-wallpaper-preview.jpg)
-##Índice
-*[Sobre mí](#sobre-mi)
-*[Proyectos](#proyectos)
-*[Contacto](#contacto)
-![GitHub followers](https://img.shields.io/github/followers/ivanmerida?style=social)
-
+<div align="center">
+  <img src="https://p4.wallpaperbetter.com/wallpaper/999/599/785/html-code-coffee-programmers-wallpaper-preview.jpg" alt="bg-code">
+</div>
+<hr/>
+<div align="center">
+  <img src="https://github.com/ivanmerida/IvanMerida/assets/87203017/b4f372d0-eee0-448b-b21a-6895c4b81faf.png" alt="bg-code">
+</div>
+<p align="center">
+<b> MI WEB:</b> https://medevweb.netlify.app/
+</p>
+<hr/>
 👨‍💻 Sobre Mí
 Desarrollador web con un año de experiencia en desarrollo front-end y back-end.
 Me encanta la programación y me considero autodidacta.
@@ -16,7 +20,7 @@ Gracias a esto siempre estoy aprendiendo cosas nuevas y manteniéndome
 actualizado.
 Busco un puesto donde pueda aplicar mis habilidades de desarrollo full-stack,
 mantener y crear aplicaciones web.
-
+<hr/>
  Sobre Mí
 
 🌟 Proyectos Destacados<br/>
@@ -36,7 +40,7 @@ Instituto Tecnológico de Comitán (enero a junio de 2023)<br/>
 Desarrollo web full-stack con HTML, CSS, JS, Angular, NodeJS, Express y MongoDB
 para la creación de una tienda de ropa en línea, pago con PayPal, carrito de
 compras.<br/>
-
+<hr/>
 
 🚀 Habilidades<br/>
 Desarrollo de aplicaciones web completas, maquetación web<br/>
