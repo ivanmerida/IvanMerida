@@ -18,8 +18,6 @@ actualizado.
 Busco un puesto donde pueda aplicar mis habilidades de desarrollo full-stack,
 mantener y crear aplicaciones web.
 <hr/>
- Sobre Mí
-
 🌟 Proyectos Destacados<br/>
 <b>Desarrollador full-stack</b>
 Freelance (septiembre a diciembre 2023)<br/>
