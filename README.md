@@ -42,7 +42,7 @@ compras.<br/>
 🚀 Habilidades<br/>
 Desarrollo de aplicaciones web completas, maquetación web<br/>
 Tecnologías con las que trabajo.<br/>
-HTML5, CSS3, Reponsive, Bootstrap, JavaScript, jQuery, Angular, <br/>
+HTML5, CSS3, Responsive, Bootstrap, JavaScript, jQuery, Angular, <br/>
 React, NodeJS, PHP, Laravel, Shell, SQL, MySQL, MongoDB, Python, Java, GitHub.
 
 
