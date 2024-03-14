@@ -1,6 +1,6 @@
 
 <h1 align="center"> Iván Mérida</h1>
-<h2 align="center">Desarrollador web</h2>
+<h2 align="center">Desarrollador de software</h2>
 
 
 <div align="center">
@@ -11,7 +11,7 @@
 </p>
 <hr/>
 👨‍💻 Sobre Mí
-Desarrollador web con un año de experiencia en desarrollo front-end y back-end.
+Desarrollador de software con un año de experiencia en desarrollo front-end y back-end.
 Me encanta la programación y me considero autodidacta.
 Gracias a esto siempre estoy aprendiendo cosas nuevas y manteniéndome
 actualizado.
