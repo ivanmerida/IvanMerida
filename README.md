@@ -13,7 +13,7 @@
 Desarrollador de software con un año de experiencia en desarrollo front-end y back-end. 
 <hr/>
 👨‍💻Trabajo<br/>
-<b>Ing. Desarrollo</b>
+<b>Ing. Desarrollo</b><br/>
 Gorigeek S.A de C.V. (marzo 2024 - actual)<br/>
 Desarrollo web full-stack con HTML5, CSS3, Bootstrap 5, JS, jQuery, Java, Java SE, Java EE, Hibernate, Spring MVC, Spring Boot
 MySQL.
@@ -50,7 +50,6 @@ Frameworks y librerías
   <li>Laravel</li>
   <li>Django</li>
 </ul>
-<br/>
 Lenguajes de programación 
  <ul>
    <li>
@@ -66,7 +65,6 @@ Lenguajes de programación
      Python
    </li>
  </ul>
-<br/>
 Base de datos <br/>
 <ul>
   <li>MySQL</li>
