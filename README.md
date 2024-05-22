@@ -5,7 +5,8 @@
 <b> MI WEB:</b> https://medevweb.netlify.app/
 </p>
 <hr/>
-{ <b>Sobre Mí</b> }
+<div align="center">
+  { <b>Sobre Mí</b> }
 Desarrollador de software con un año de experiencia en desarrollo front-end y back-end. 
 <hr/>
 👨‍💻Trabajo<br/>
@@ -35,7 +36,8 @@ para la creación de una tienda de ropa en línea, pago con PayPal, carrito de
 compras.<br/>
 <hr/>
 🚀 Habilidades<br/><br/>
-Desarrollo de aplicaciones web completas, maquetación web HTML5, CSS3, Responsive.
+Desarrollo de aplicaciones web completas, maquetación <br/>
+web HTML5, CSS3, Responsive.
 <br/>
 Frameworks y librerías 
 <ul>
@@ -74,7 +76,7 @@ Control de versiones
   <li>Git - GitHub</li>
   <li>SVN</li>
 </ul>
-
+</div>
 
 
 
