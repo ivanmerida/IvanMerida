@@ -5,7 +5,6 @@
 <b> MI WEB:</b> https://medevweb.netlify.app/
 </p>
 <hr/>
-<div align="center">
   { <b>Sobre Mí</b> }
 Desarrollador de software con un año de experiencia en desarrollo front-end y back-end. 
 <hr/>
@@ -76,7 +75,6 @@ Control de versiones
   <li>Git - GitHub</li>
   <li>SVN</li>
 </ul>
-</div>
 
 
 
