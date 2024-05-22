@@ -24,18 +24,21 @@ MySQL.
 Freelance (septiembre a diciembre 2023)<br/>
 Desarrollo web full-stack con HTML5, CSS3, JS, React, Node y MySQL para una
 aplicación de gestión de citas, promoción de productos, servicios y reseñas de
-clientes para una veterinaria.<br/>
+clientes para una veterinaria.
+<br/>
+<br/>
 <b>Desarrollador full-stack</b><br/>
 Instituto Tecnológico de Comitán (agosto a diciembre 2023)<br/>
 Desarrollo web full-stack con HTML5, CSS3, JS, React, Node, PHP, MySQL para un
 dashboard para la gestión y control de un invernadero, generación de PDF.<br/>
+<br/>
 <b>Desarrollador full-stack</b><br/>
 Instituto Tecnológico de Comitán (enero a junio de 2023)<br/>
 Desarrollo web full-stack con HTML5, CSS3, JS, Angular, NodeJS, Express y MongoDB
 para la creación de una tienda de ropa en línea, pago con PayPal, carrito de
 compras.<br/>
 <hr/>
-🚀 Habilidades<br/>
+🚀 Habilidades<br/><br/>
 Desarrollo de aplicaciones web completas, maquetación web HTML5, CSS3, Responsive.
 <br/>
 Frameworks y librerías 
