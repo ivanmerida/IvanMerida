@@ -15,23 +15,23 @@ Desarrollador de software con un año de experiencia en desarrollo front-end y b
 👨‍💻Trabajo<br/>
 <b>Ing. Desarrollo</b>
 Gorigeek S.A de C.V. (marzo 2024 - actual)<br/>
-Desarrollo web full-stack con HTML, CSS, Bootstrap 5, JS, jQuery, Java, Java SE, Java EE, Hibernate, Spring MVC, Spring Boot
+Desarrollo web full-stack con HTML5, CSS3, Bootstrap 5, JS, jQuery, Java, Java SE, Java EE, Hibernate, Spring MVC, Spring Boot
 MySQL.
 <br/>
 🌟 Proyectos Destacados<br/>
 <br/>
 <b>Desarrollador full-stack</b><br/>
 Freelance (septiembre a diciembre 2023)<br/>
-Desarrollo web full-stack con HTML, CSS, JS, React, Node y MySQL para una
+Desarrollo web full-stack con HTML5, CSS3, JS, React, Node y MySQL para una
 aplicación de gestión de citas, promoción de productos, servicios y reseñas de
 clientes para una veterinaria.<br/>
 <b>Desarrollador full-stack</b><br/>
 Instituto Tecnológico de Comitán (agosto a diciembre 2023)<br/>
-Desarrollo web full-stack con HTML, CSS, JS, React, Node, PHP MySQL para un
+Desarrollo web full-stack con HTML5, CSS3, JS, React, Node, PHP, MySQL para un
 dashboard para la gestión y control de un invernadero, generación de PDF.<br/>
 <b>Desarrollador full-stack</b><br/>
 Instituto Tecnológico de Comitán (enero a junio de 2023)<br/>
-Desarrollo web full-stack con HTML, CSS, JS, Angular, NodeJS, Express y MongoDB
+Desarrollo web full-stack con HTML5, CSS3, JS, Angular, NodeJS, Express y MongoDB
 para la creación de una tienda de ropa en línea, pago con PayPal, carrito de
 compras.<br/>
 <hr/>
@@ -44,7 +44,6 @@ Frameworks y librerías
   <li>React</li>
   <li>jQuery</li>
   <li>Bootstrap 4 y 5</li>
-  <li>HTML5</li>
   <li>Express</li>
   <li>Spring MVC</li>
   <li>Spring Boot</li>
