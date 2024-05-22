@@ -16,7 +16,7 @@ Desarrollador de software con un año de experiencia en desarrollo front-end y b
 <b>Ing. Desarrollo</b><br/>
 Gorigeek S.A de C.V. (marzo 2024 - actual)<br/>
 Desarrollo web full-stack con HTML5, CSS3, Bootstrap 5, JS, jQuery, Java, Java SE, Java EE, Hibernate, Spring MVC, Spring Boot
-MySQL.
+MySQL.<br/>
 <br/>
 🌟 Proyectos Destacados<br/>
 <br/>
