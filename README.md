@@ -1,10 +1,6 @@
 
 <h1 align="center"> Iván Mérida</h1>
 <h2 align="center">Desarrollador de software</h2>
-
-<div align="center">
-  <img src="https://github.com/ivanmerida/IvanMerida/assets/87203017/b4f372d0-eee0-448b-b21a-6895c4b81faf.png" alt="bg-code">
-</div>
 <p align="center">
 <b> MI WEB:</b> https://medevweb.netlify.app/
 </p>
