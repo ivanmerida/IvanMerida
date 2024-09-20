@@ -6,10 +6,10 @@
 </p>
 <hr/>
   { <b>Sobre Mí</b> }
-Desarrollador de software con un año de experiencia en desarrollo front-end y back-end. 
+Desarrollador Full stack con un año y medio de experiencia en desarrollo front-end y back-end. 
 <hr/>
 👨‍💻Trabajo<br/>
-<b>Ing. Desarrollo</b><br/>
+<b>Desarrollador web</b><br/>
 Gorigeek S.A de C.V. (marzo 2024 - actual)<br/>
 Desarrollo web full-stack con HTML5, CSS3, Bootstrap 5, JS, jQuery, Java, Java SE, Java EE, Hibernate, Spring MVC, Spring Boot
 MySQL.<br/>
