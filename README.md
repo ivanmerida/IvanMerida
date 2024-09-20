@@ -1,6 +1,6 @@
 
 <h1 align="center"> Iván Mérida</h1>
-<h2 align="center">Desarrollador de software</h2>
+<h2 align="center">Desarrollador Full stack</h2>
 <p align="center">
 <b> MI WEB:</b> https://medevweb.netlify.app/
 </p>
