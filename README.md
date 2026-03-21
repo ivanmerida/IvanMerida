@@ -1,7 +1,5 @@
 # 👋 Hola, soy Iván Mérida  
 **Fullstack Developer especializado en Node.js | APIs REST | Sistemas en tiempo real**
-
-🌐 Portafolio: https://medevweb.netlify.app/
 ---
 
 ## 📫 Contacto  
@@ -26,6 +24,14 @@ He trabajado en proyectos donde he optimizado rendimiento, implementado funciona
 - Implementación de sistemas en tiempo real con WebSockets  
 - Integración con AWS (S3), Twilio y servicios externos  
 - Optimización de rendimiento en endpoints y base de datos  
+
+---
+
+### 🏢 Desarrollador Web – Gorigeek (2024)  
+- Desarrollo backend con Java, Spring MVC, Hibernate y MySQL  
+- Implementación y mantenimiento de módulos empresariales  
+- Optimización de consultas SQL para mejorar rendimiento  
+- Desarrollo frontend con JavaScript, Bootstrap y JSP  
 
 ---
 
