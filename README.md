@@ -67,4 +67,4 @@ Angular, React, JavaScript, HTML5, CSS3
 PostgreSQL, MySQL, MongoDB  
 
 **Cloud & Tools:**  
-AWS (S3), Git, GitHub, Firebase  
+AWS (S3), Git, GitHub, Firebase   
